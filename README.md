@@ -10,6 +10,16 @@ Machine learning is the most exciting branch of artificial intelligence. It allo
 	- Jupyter Notebook environment in the cloud or locally, with the necessary libraries installed
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
+## Library Dependencies
+Before running the code, make sure to install the following dependencies in your environment.
+
+pandas - %pip install pandas
+matplotlib - %pip install matplotlib
+seaborn - %pip install seaborn
+scikit-learn - %pip install scikit-learn
+numpy - %pip install numpy
+xgboost - %pip install xgboost
+
 ### Instructor
 
 Kesha Williams 
